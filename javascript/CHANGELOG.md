@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.0](https://github.com/langwatch/scenario/compare/javascript/v0.5.5...javascript/v1.0.0) (2026-07-24)
+
+
+### Features
+
+* **javascript:** graduate to 1.0.0 ([6379130](https://github.com/langwatch/scenario/commit/6379130a79a01290fee24ce68e1a018dfd309d79))
+* **release:** 1.0 release prep, stable classifiers and unstuck langwatch pins ([#842](https://github.com/langwatch/scenario/issues/842)) ([616c506](https://github.com/langwatch/scenario/commit/616c506a4d28da273eaf9ddc2c636c1cb756c51f))
+
 ## [Unreleased]
 
 
